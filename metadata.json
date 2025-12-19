@@ -1,0 +1,7 @@
+{
+  "name": "ClassCheck - ระบบเช็คชื่ออัจฉริยะ",
+  "description": "ระบบเช็คชื่อเข้าเรียนผ่าน QR Code พร้อมการวิเคราะห์ข้อมูลด้วย AI สำหรับอาจารย์และนักศึกษา",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
